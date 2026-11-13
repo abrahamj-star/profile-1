@@ -4,10 +4,10 @@ Static personal portfolio built from a CV using plain HTML, CSS and JavaScript. 
 
 ## Structure
 ```
-index.html          page content
-css/style.css       styles (light/dark themes, responsive, print)
-js/main.js          theme toggle, mobile menu, scroll effects, publication filter
-assets/images/      profile photo
+index.html    page content
+style.css     styles (light/dark themes, responsive, print)
+main.js       theme toggle, mobile menu, scroll effects, publication filter
+profile.jpg   profile photo
 ```
 
 ## Run locally
